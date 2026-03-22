@@ -1,0 +1,42 @@
+[
+  {
+    "product_id": "ELEC101",
+    "name": "SuperCharge Laptop",
+    "category": "Electronics",
+    "price": 55000,
+    "specifications": {
+      "warranty_years": 2,
+      "voltage": "220V",
+      "ram": "16GB",
+      "storage": "512GB SSD"
+    },
+    "in_stock": true
+  },
+  {
+    "product_id": "CLTH202",
+    "name": "Classic Denim Jacket",
+    "category": "Clothing",
+    "price": 2500,
+    "details": {
+      "material": "Cotton",
+      "sizes": ["S", "M", "L", "XL"],
+      "color": "Indigo"
+    },
+    "brand": "UrbanWear"
+  },
+  {
+    "product_id": "GROC303",
+    "name": "Organic Almond Milk",
+    "category": "Groceries",
+    "price": 350,
+    "info": {
+      "expiry_date": "2024-12-15",
+      "nutritional_info": {
+        "calories": 60,
+        "sugar": "0g",
+        "vegan": true
+      }
+    },
+    "volume": "1L"
+  }
+]
